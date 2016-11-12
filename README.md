@@ -1,2 +1,5 @@
 # hello-world
-Just another reposotory
+
+Hi I am a Chease
+
+I love kung fu
